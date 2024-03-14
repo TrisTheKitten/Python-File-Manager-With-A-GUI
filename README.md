@@ -27,11 +27,6 @@ EXE version coming soon. Stay tuned for the stable release.
 - Define renaming patterns (prefixes, suffixes, character replacements)
 - Preview renamed files before applying changes
 
-**File Searching and Filtering**
-- Search files/folders by name, extension, size, modification date
-- Filter search results by file type, size range
-- Display search results in a dedicated GUI section
-
 **File Comparison and Synchronization**
 - Compare two directories for differences (missing/updated files)
 - Synchronize directories by copying/updating files
@@ -40,15 +35,6 @@ EXE version coming soon. Stay tuned for the stable release.
 **File Backup and Restore**
 - Create backups of files/folders to specified destinations
 - Restore files/folders from backups
-
-**File Sharing and Remote Access**
-- Share files/folders via shareable links/QR codes
-- Access and manage files remotely through secure connections
-
-**File Versioning and History**
-- Track different file versions over time
-- View and restore previous file versions
-- Display file modification history
 
 **File Tagging and Categorization**
 - Assign tags/categories to files/folders
