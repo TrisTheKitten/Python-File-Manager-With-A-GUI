@@ -13,14 +13,8 @@ Planned Upcoming Updates
 
 EXE version coming soon. Stay tuned for the stable release.
 
-
-**File Backup and Restore**
-- Create backups of files/folders to specified destinations
-- Restore files/folders from backups
-
-**File Tagging and Categorization**
+**File Tagging**
 - Assign tags/categories to files/folders
-- Filter and search files based on tags/categories
 - Manage tags (create, edit, delete)
 
 **Integration with Cloud Storage**
