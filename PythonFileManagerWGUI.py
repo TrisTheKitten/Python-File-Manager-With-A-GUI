@@ -552,9 +552,8 @@ class PythonFileManager(ctk.CTk):
             "Java": (".java"),
             "Text Files": (".txt", ".log", ".md", ".json", ".yaml", ".yml", ".csv", ".tsv", ".xml", ".html", ".htm", ".css", ".js", ".php", ".cpp", ".cs", ".rb", ".pl", ".sql", ".swift", ".go", ".rs", ".kt", ".kts", ".scala", ".sh", ".ps1", ".bat", ".md", ".json"),
             "Video files": (".mp4", ".mkv", ".webm", ".flv", ".vob", ".ogv", ".ogg", ".drc", ".gif", ".gifv", ".mng", ".avi", ".mov", ".qt", ".wmv", ".yuv", ".rm", ".rmvb", ".asf", ".amv", ".mpg", ".mpeg", ".mpe", ".mpv", ".mp2", ".m2v", ".m4v", ".svi", ".3gp", ".3g2", ".mxf", ".roq", ".nsv", ".flv", ".f4v", ".f4p", ".f4a", ".f4b"),
-            "Draw.io files": (".drawio", ".drawio.png", ".drawio.svg", ".drawio.pdf", ".drawio.html", ".drawio.json", ".drawio.xml", ".drawio.txt", ".drawio.md", ".drawio.csv", ".drawio.jsonl", ".drawio.jsonl.gz", ".drawio.jsonl.bz2", ".drawio.jsonl.zip", ".drawio.jsonl.tar", ".drawio.jsonl.tar.gz", ".drawio.jsonl.tar.bz2", ".drawio.jsonl.tar.zip")
-            "Sketchup Files": (".skp", ".skp.gz", ".skp.bz2", ".skp.zip", ".skp.tar", ".skp.tar.gz", ".skp.tar.bz2", ".skp.tar.zip")
-            
+            "Draw.io files": (".drawio", ".drawio.png", ".drawio.svg", ".drawio.pdf", ".drawio.html", ".drawio.json", ".drawio.xml", ".drawio.txt", ".drawio.md", ".drawio.csv", ".drawio.jsonl", ".drawio.jsonl.gz", ".drawio.jsonl.bz2", ".drawio.jsonl.zip", ".drawio.jsonl.tar", ".drawio.jsonl.tar.gz", ".drawio.jsonl.tar.bz2", ".drawio.jsonl.tar.zip"),
+            "Sketchup Files": (".skp", ".skp.gz", ".skp.bz2", ".skp.zip", ".skp.tar", ".skp.tar.gz", ".skp.tar.bz2", ".skp.tar.zip") 
         }
 
         for file_type in file_types:
